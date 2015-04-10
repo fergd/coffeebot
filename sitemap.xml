@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/coffeebot/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.0.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.4" -->
+<!-- generated-on="December 30, 2010 6:12 pm" -->
+<!-- Debug: Total comment count: 3 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://localhost/coffeebot/</loc>
+		<lastmod>2010-11-13T01:03:10+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+<!-- Debug: Priority report of postID 3: Comments: 0 of 3 = 0 points -->
+	<url>
+		<loc>http://localhost/coffeebot/?p=3</loc>
+		<lastmod>2010-11-13T01:03:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 121: Comments: 3 of 3 = 1 points -->
+	<url>
+		<loc>http://localhost/coffeebot/?p=121</loc>
+		<lastmod>2010-11-13T00:56:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Priority report of postID 52: Comments: 0 of 3 = 0 points -->
+	<url>
+		<loc>http://localhost/coffeebot/?p=52</loc>
+		<lastmod>2010-11-12T23:34:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://localhost/coffeebot/?page_id=195</loc>
+		<lastmod>2010-11-12T22:46:24+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 200: Comments: 0 of 3 = 0 points -->
+	<url>
+		<loc>http://localhost/coffeebot/?p=200</loc>
+		<lastmod>2010-11-12T15:59:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://localhost/coffeebot/?page_id=153</loc>
+		<lastmod>2010-11-11T21:55:22+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/coffeebot/?page_id=107</loc>
+		<lastmod>2010-11-11T21:35:39+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/coffeebot/?page_id=2</loc>
+		<lastmod>2010-11-11T19:19:11+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/coffeebot/?page_id=86</loc>
+		<lastmod>2010-11-11T19:17:15+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/coffeebot/?page_id=115</loc>
+		<lastmod>2010-11-11T19:10:28+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>

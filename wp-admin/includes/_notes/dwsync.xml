@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin.php" server="ftp.coffeebot.co" local="129259284282687019" remote="129342496200000000" />
+<file name="bookmark.php" server="ftp.coffeebot.co" local="129259284283537019" remote="129342496200000000" />
+<file name="class-ftp-pure.php" server="ftp.coffeebot.co" local="129259284283337019" remote="129342496200000000" />
+<file name="class-ftp-sockets.php" server="ftp.coffeebot.co" local="129259284292207019" remote="129342496200000000" />
+<file name="class-ftp.php" server="ftp.coffeebot.co" local="129259284285587019" remote="129342496200000000" />
+<file name="class-pclzip.php" server="ftp.coffeebot.co" local="129259284290597019" remote="129342496200000000" />
+<file name="class-wp-filesystem-base.php" server="ftp.coffeebot.co" local="129259284283727019" remote="129342496200000000" />
+<file name="class-wp-filesystem-direct.php" server="ftp.coffeebot.co" local="129259284291777019" remote="129342496200000000" />
+<file name="class-wp-filesystem-ftpext.php" server="ftp.coffeebot.co" local="129259284286447019" remote="129342496200000000" />
+<file name="class-wp-filesystem-ftpsockets.php" server="ftp.coffeebot.co" local="129259284288117019" remote="129342496200000000" />
+<file name="class-wp-filesystem-ssh2.php" server="ftp.coffeebot.co" local="129259284281227019" remote="129342496200000000" />
+<file name="class-wp-importer.php" server="ftp.coffeebot.co" local="129259284288327019" remote="129342496200000000" />
+<file name="class-wp-upgrader.php" server="ftp.coffeebot.co" local="129259284286657019" remote="129342496200000000" />
+<file name="comment.php" server="ftp.coffeebot.co" local="129259284276807019" remote="129342496200000000" />
+<file name="continents-cities.php" server="ftp.coffeebot.co" local="129259284283137019" remote="129342496200000000" />
+<file name="dashboard.php" server="ftp.coffeebot.co" local="129259284277577019" remote="129342496200000000" />
+<file name="deprecated.php" server="ftp.coffeebot.co" local="129259284285817019" remote="129342496200000000" />
+<file name="export.php" server="ftp.coffeebot.co" local="129259284280207019" remote="129342496200000000" />
+<file name="file.php" server="ftp.coffeebot.co" local="129259284277857019" remote="129342496200000000" />
+<file name="image-edit.php" server="ftp.coffeebot.co" local="129259284286257019" remote="129342496200000000" />
+<file name="image.php" server="ftp.coffeebot.co" local="129259284279247019" remote="129342496200000000" />
+<file name="import.php" server="ftp.coffeebot.co" local="129259284282187019" remote="129342496200000000" />
+<file name="manifest.php" server="ftp.coffeebot.co" local="129259284280637019" remote="129342496200000000" />
+<file name="media.php" server="ftp.coffeebot.co" local="129259284288577019" remote="129342496200000000" />
+<file name="meta-boxes.php" server="ftp.coffeebot.co" local="129259284280437019" remote="129342496200000000" />
+<file name="misc.php" server="ftp.coffeebot.co" local="129259284278077019" remote="129342496200000000" />
+<file name="ms-deprecated.php" server="ftp.coffeebot.co" local="129259284279857019" remote="129342496200000000" />
+<file name="ms.php" server="ftp.coffeebot.co" local="129259284285157019" remote="129342496200000000" />
+<file name="nav-menu.php" server="ftp.coffeebot.co" local="129259284284427019" remote="129342496200000000" />
+<file name="plugin-install.php" server="ftp.coffeebot.co" local="129259284281897019" remote="129342496800000000" />
+<file name="plugin.php" server="ftp.coffeebot.co" local="129259284284187019" remote="129342496800000000" />
+<file name="post.php" server="ftp.coffeebot.co" local="129259284282417019" remote="129342496800000000" />
+<file name="schema.php" server="ftp.coffeebot.co" local="129259284286037019" remote="129342496800000000" />
+<file name="taxonomy.php" server="ftp.coffeebot.co" local="129259284279527019" remote="129342496800000000" />
+<file name="template.php" server="ftp.coffeebot.co" local="129259284277097019" remote="129342496800000000" />
+<file name="theme-install.php" server="ftp.coffeebot.co" local="129259284292417019" remote="129342496800000000" />
+<file name="theme.php" server="ftp.coffeebot.co" local="129259284283987019" remote="129342496800000000" />
+<file name="update-core.php" server="ftp.coffeebot.co" local="129259284278977019" remote="129342496800000000" />
+<file name="update.php" server="ftp.coffeebot.co" local="129259284280917019" remote="129342496800000000" />
+<file name="upgrade.php" server="ftp.coffeebot.co" local="129259284285387019" remote="129342496800000000" />
+<file name="user.php" server="ftp.coffeebot.co" local="129259284287927019" remote="129342496800000000" />
+<file name="widgets.php" server="ftp.coffeebot.co" local="129259284284627019" remote="129342496800000000" />
+</dwsync>
